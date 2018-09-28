@@ -1,5 +1,5 @@
 # Boston-Housing
-A repository that contains Jupyter Notebooks that utilizes the Boston Housing Dataset. The goal is to predict the price of the House given the follwoing variables.
+The goal is to predict the price of the House given the follwoing variables.
 1. crim: per capita crime rate by town.
 2. zn: proportion of residential land zoned for lots over 25,000 sq.ft.
 3. indus: proportion of non-retail business acres per town.

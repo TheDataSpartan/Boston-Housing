@@ -1,4 +1,6 @@
 # Boston-Housing
+
+# Description
 The goal is to predict the price of the House given the follwoing variables.
 1. crim: per capita crime rate by town.
 2. zn: proportion of residential land zoned for lots over 25,000 sq.ft.
@@ -14,3 +16,6 @@ The goal is to predict the price of the House given the follwoing variables.
 12. black: 1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town.
 13. lstat: lower status of the population (percent).
 14. medv: median value of owner-occupied homes in \$1000s.
+
+# Note
+Each Jupyter Notebook has the Kaggle Score included in its name. The Notebooks can also be found on my Kaggle Account under the Kernels Tab. https://www.kaggle.com/thedataspartan
